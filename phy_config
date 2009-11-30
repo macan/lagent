@@ -1,0 +1,21 @@
+# Configration file of the physical layout
+
+# This is the tree root
+#!root
+10.10.111.82
+
+# These are the blocks
+#!block 0
+glnode082
+glnode083
+#macana
+
+#!block 1
+10.10.111.84
+glnode085
+
+# #!block 3
+bcl01
+bcl02
+# bcl03
+# bcl04

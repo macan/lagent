@@ -1,0 +1,313 @@
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3281
+sid      = 3266
+rank     = 0
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3274
+sid      = 3267
+rank     = 1
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3275
+sid      = 3268
+rank     = 2
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3278
+sid      = 3269
+rank     = 3
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3276
+sid      = 3270
+rank     = 4
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3277
+sid      = 3271
+rank     = 5
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3279
+sid      = 3272
+rank     = 6
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode082
+pid      = 3280
+sid      = 3273
+rank     = 7
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2229
+sid      = 2221
+rank     = 16
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2230
+sid      = 2222
+rank     = 17
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2235
+sid      = 2223
+rank     = 18
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2231
+sid      = 2224
+rank     = 19
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2232
+sid      = 2225
+rank     = 20
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2233
+sid      = 2226
+rank     = 21
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2234
+sid      = 2227
+rank     = 22
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode084
+pid      = 2236
+sid      = 2228
+rank     = 23
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15934
+sid      = 15925
+rank     = 8
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15933
+sid      = 15926
+rank     = 9
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15935
+sid      = 15927
+rank     = 10
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15936
+sid      = 15928
+rank     = 11
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15938
+sid      = 15929
+rank     = 12
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15937
+sid      = 15930
+rank     = 13
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15939
+sid      = 15931
+rank     = 14
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode085
+pid      = 15940
+sid      = 15932
+rank     = 15
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2234
+sid      = 2226
+rank     = 24
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2235
+sid      = 2227
+rank     = 25
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2237
+sid      = 2228
+rank     = 26
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2236
+sid      = 2229
+rank     = 27
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2241
+sid      = 2230
+rank     = 28
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2239
+sid      = 2231
+rank     = 29
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2240
+sid      = 2232
+rank     = 30
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 1@glnode082_48993
+jobalias =           
+username = root
+host     = glnode083
+pid      = 2238
+sid      = 2233
+rank     = 31
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 2@glnode082_48993
+jobalias =           xx
+username = root
+host     = glnode083
+pid      = 2238
+sid      = 2233
+rank     = 0
+pgm      = /home/macan/npb/cg.B.32
+
+jobid    = 2@glnode082_48993
+jobalias =           yy
+username = root
+host     = glnode083
+pid      = 2238
+sid      = 2233
+rank     = 1
+pgm      = /home/macan/npb/cg.B.32
+jobid    = 2@glnode082_48993
+jobalias = xx
+username = root
+host     = glnode083
+pid      = 2238
+sid      = 2233
+rank     = 2
+pgm      = /home/macan/npb/cg.B.32
