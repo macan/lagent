@@ -396,11 +396,18 @@ int lagent_start_all(phy_topo_t *topo, struct io_redirections **child, int *tota
                 if (!cmd)
                     exit(0);
                 char user_addr[64] = {0,};
+                char *self_cmd = strdup(cmd), *p;
+                /* substitute %id with process ID */
+                if ((p = strstr(cmd, "%id")) != NULL) {
+                    *(p + 1) = 'd';
+                    *(p + 2) = ' ';
+                    sprintf(self_cmd, cmd, i);
+                }
                 char *args[] = {"/usr/bin/ssh",
                                 "-x",
                                 noinput ? "-n" : "-x",
                                 user_addr,
-                                cmd,
+                                self_cmd,
                                 (char *)0
                 };
                 if (set_user)
