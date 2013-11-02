@@ -430,8 +430,8 @@ static void lagent_validate()
     char *magic = "c541a5e6308a4b9245defdbd909971c66c44479a";
     char sha1[65];
     int ofd = dup(1);
-    int nfd = open("/tmp/.lagent.validate", O_RDWR | O_CREAT | O_TRUNC);
-    int n2fd = open("/tmp/.lagent.sha1",  O_RDWR | O_CREAT | O_TRUNC);
+    int nfd = open("/tmp/.lagent.validate", O_RDWR | O_CREAT | O_TRUNC, 0600);
+    int n2fd = open("/tmp/.lagent.sha1",  O_RDWR | O_CREAT | O_TRUNC, 0600);
     int br;
 
     if (nfd < 0 || n2fd < 0) {
@@ -1549,8 +1549,8 @@ int main(int argc, char *argv[])
         }
     }
 
-    /* validate this program */
-    lagent_validate();
+    /* validate this program, DISABLED! */
+    //lagent_validate();
     
     /* verbose mode ? */
     if (verbose) {
